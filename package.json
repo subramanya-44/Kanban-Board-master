@@ -1,0 +1,14 @@
+{
+  "name": "kanban-board-master",
+  "version": "1.0.0",
+  "description": "A Kanban board project. To-Do: - Refactor Column component into a Draggable - Implement action buttons for tasks to shift to the previous or next column - Touch Events Drag & Drop Implementation (non-exhaustive)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
